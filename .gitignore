@@ -1,2 +1,5 @@
 *.pyc
 *.jpg
+*.csv
+.ipynb_checkpoints
+.kaggle-cli
